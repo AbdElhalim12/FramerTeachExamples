@@ -1,10 +1,6 @@
 # Sketch Import
 sketch = Framer.Importer.load "imported/chat"
 
-# Set device background 
-Framer.Device.background.style.background = 
-	"linear-gradient(45deg, #fff 50%, #D8F0FF 100%)"
-
 # Make the chat view scrollable
 scroll = ScrollComponent.wrap(sketch.scroll)
 scroll.scrollY = scroll.content.height

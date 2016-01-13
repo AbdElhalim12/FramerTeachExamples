@@ -12,6 +12,7 @@ page.addPage(sketch.photoB)
 page.addPage(sketch.photoC)
 page.snapToPage(sketch.photoA)
 
+
 # Generate card layers
 for i in [0...3]
 	indicator = new Layer 
