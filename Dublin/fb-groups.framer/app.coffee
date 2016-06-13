@@ -1,5 +1,5 @@
-# Import file "view-transition"
-sketch = Framer.Importer.load("imported/view-transition@1x")
+# Import file "fb-groups"
+sketch = Framer.Importer.load("imported/fb-groups@1x")
 
 # Wrap image in ScrollComponent
 scroll = ScrollComponent.wrap(sketch.group)
