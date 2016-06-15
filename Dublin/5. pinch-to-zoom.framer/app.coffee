@@ -5,4 +5,3 @@
 
 # Import file "photo-scale"
 sketch = Framer.Importer.load("imported/photo-scale@1x")
-

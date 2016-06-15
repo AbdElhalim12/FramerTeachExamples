@@ -84,10 +84,10 @@ window.__imported__["photo-scale@1x/layers.json.js"] = [
 							}
 						},
 						"children": [],
-						"time": 76
+						"time": 83
 					}
 				],
-				"time": 161
+				"time": 167
 			},
 			{
 				"objectId": "FC7FEC7D-F215-4CCE-ACE8-93D7452D7AF0",
@@ -125,10 +125,10 @@ window.__imported__["photo-scale@1x/layers.json.js"] = [
 						"name": "image",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": -261,
-							"y": -1,
-							"width": 1391,
-							"height": 927
+							"x": 8,
+							"y": 128,
+							"width": 734,
+							"height": 734
 						},
 						"visible": true,
 						"metadata": {
@@ -137,17 +137,17 @@ window.__imported__["photo-scale@1x/layers.json.js"] = [
 						"image": {
 							"path": "images/Layer-image-qkexmkfc.jpg",
 							"frame": {
-								"x": -261,
-								"y": -1,
-								"width": 1391,
-								"height": 927
+								"x": 8,
+								"y": 128,
+								"width": 734,
+								"height": 734
 							}
 						},
 						"children": [],
-						"time": 433
+						"time": 198
 					}
 				],
-				"time": 597
+				"time": 390
 			},
 			{
 				"objectId": "6C8D54FC-9CE8-4C71-8940-D23733F9884D",
@@ -226,7 +226,7 @@ window.__imported__["photo-scale@1x/layers.json.js"] = [
 							}
 						},
 						"children": [],
-						"time": 53
+						"time": 47
 					},
 					{
 						"objectId": "0F549D74-617C-4039-9869-CF776ABF421F",
@@ -253,13 +253,13 @@ window.__imported__["photo-scale@1x/layers.json.js"] = [
 							}
 						},
 						"children": [],
-						"time": 43
+						"time": 41
 					}
 				],
-				"time": 232
+				"time": 215
 			}
 		],
-		"time": 1367
+		"time": 1109
 	}
 ]
 if (DeviceComponent) {DeviceComponent.Devices["iphone-6-silver"].deviceImageJP2 = false};

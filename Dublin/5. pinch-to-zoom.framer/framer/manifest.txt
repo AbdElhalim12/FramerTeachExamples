@@ -12,6 +12,7 @@ framer/backups/backup-2016-06-14 15.47.21.coffee
 framer/backups/backup-2016-06-14 15.48.21.coffee
 framer/backups/backup-2016-06-14 16.55.59.coffee
 framer/backups/backup-2016-06-14 16.58.59.coffee
+framer/backups/backup-2016-06-15 09.57.04.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
